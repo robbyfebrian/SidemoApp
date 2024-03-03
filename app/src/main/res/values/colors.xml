@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#FFE74C3C</color>
+    <color name="primaryGradient">#FF872D24</color>
+    <color name="secondary">#FF9B59B6</color>
+    <color name="black">#FF101317</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="transparentBlack">#FF838E9E</color>
+</resources>

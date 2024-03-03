@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">SidemoApp</string>
+
+    <string name="logoKudus">Logo Kudus</string>
+    <string name="greetingHeader">"Selamat Datang di "</string>
+    <string name="greetingSpan">Sidemo App</string>
+    <string name="greetingSubheader">Halo, silahkan masuk untuk melanjutkan</string>
+
+    <string name="emailLabel">Email</string>
+    <string name="passwordLabel">Password</string>
+    <string name="hidePassword">Sembunyikan Password</string>
+    <string name="showPassword">Tampilkan Password</string>
+    <string name="loginButton">Masuk</string>
+
+    <string name="loginFooter">Belum punya akun?</string>
+    <string name="loginSpan">" Daftar"</string>
+
+    <string name="backArrow">Kembali</string>
+    <string name="formHeaderDataWarga">Data Warga TP-PKK</string>
+
+    <string name="dasaWismaContoh">Contoh : 10</string>
+    <string name="dasaWismaLable">Dasa Wisma</string>
+    <string name="namaKepalaContoh">Contoh: Budiono</string>
+    <string name="namaKepalaLable">Nama Kepala Rumah Tangga</string>
+    <string name="nomerRegistrasiContoh">Contoh: 07235076234</string>
+    <string name="nomerRegistrasiLable">Nomer Registrasi</string>
+    <string name="nomerKTPContoh">Contoh: 3319010602030001</string>
+    <string name="nomerKTPLable">Nomer Induk Kependudukan</string>
+    <string name="namaWargaContoh">Contoh: Arif Syarifudin</string>
+    <string name="namaWargaLable">Nama Lengkap</string>
+    <string name="jabatanLable">Jabatan</string>
+    <string name="jabatanContoh">Kepala Desa</string>
+    <string name="lakiLaki">Laki - laki</string>
+    <string name="perempuan">Perempuan</string>
+    <string name="jenisKelaminLable">Jenis Kelamin</string>
+    <string name="statusPerkawinanLable">Status Perkawinan</string>
+    <string name="statusDalamKeluargaLable">Status Dalam Keluarga</string>
+    <string name="agamaLable">Agama</string>
+    <string name="pendidikanLable">Pendidikan</string>
+    <string name="pekerjaanLable">Pekerjaan</string>
+    <string name="akseptorKBLable">Akseptor KB</string>
+    <string name="aktifPosyanduLable">Aktif Dalam Posyandu</string>
+    <string name="binaKeluargaLable">Mengikuti Program Bina Keluarga Balita</string>
+    <string name="tabunganLable">Memiliki Tabungan</string>
+    <string name="kelompokBelajarLable">Mengikuti Kelompok Belajar</string>
+    <string name="paudLable">Mengikuti PAUD/Sejenis</string>
+    <string name="koperasiLable">Ikut Dalam Kegiatan Koperasi</string>
+    <string name="iya">Iya</string>
+    <string name="tidak">Tidak</string>
+    <string name="paketARadioButton">Paket A</string>
+    <string name="paketBRadioButton">Paket B</string>
+    <string name="paketCRadioButton">Paket C</string>
+    <string name="KFRadioButton">KF</string>
+    <string name="tniRadioButton">TNI/Polri</string>
+    <string name="lainnyaRadioButton">Lainnya</string>
+    <string name="pnsRadioButton">PNS</string>
+    <string name="wirausahaRadioButton">Wirausaha</string>
+    <string name="swastaRadioButton">Swasta</string>
+    <string name="PedagangRadioButton">Pedagang</string>
+    <string name="petaniRadioButton">Petani</string>
+    <string name="tidakTamatSDRadioButton">Tidak Tamat SD</string>
+    <string name="SDRadioButton">SD/MI</string>
+    <string name="SMPRadioButton">SMP/Sederajat</string>
+    <string name="SMARadioButton">SMA/SMK/Sederajat</string>
+    <string name="diplomaRadioButton">Diploma</string>
+    <string name="s1RadioButton">S1</string>
+    <string name="s3RadioButton">S3</string>
+    <string name="s2RadioButton">S2</string>
+    <string name="islamRadioButton">Islam</string>
+    <string name="hinduRadioButton">Hindu</string>
+    <string name="buddhaRadioButton">Buddha</string>
+    <string name="katholikRadioButton">Katholik</string>
+    <string name="kristenRadioButton">Kristen</string>
+    <string name="konghucuRadioButton">Konghucu</string>
+    <string name="statusAnakRadioButton">Anak</string>
+    <string name="statusKepalaRadioButton">Kepala Keluarga</string>
+    <string name="statusIstriRadioButton">Istri</string>
+    <string name="menikahRadioButton">Menikah</string>
+    <string name="lajangRadioButton">Lajang</string>
+    <string name="jandaRadioButton">Janda</string>
+    <string name="dudaRadioButton">Duda</string>
+</resources>

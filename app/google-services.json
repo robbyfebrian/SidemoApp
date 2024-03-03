@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "384238896943",
+    "project_id": "sidemoapp",
+    "storage_bucket": "sidemoapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384238896943:android:8e6351d21aa299396283da",
+        "android_client_info": {
+          "package_name": "com.robbies.sidemoapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ6SEUoffzfj0rus8JzRisH80pMHCAFFs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
