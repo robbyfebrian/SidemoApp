@@ -61,8 +61,8 @@ fun LoginScreen() {
         Column(
             modifier = Modifier
                 .padding(
-                    start = 32.dp,
-                    end = 32.dp
+                    start = 16.dp,
+                    end = 16.dp
                 ),
             horizontalAlignment = Alignment.CenterHorizontally,
             verticalArrangement = Arrangement.Center

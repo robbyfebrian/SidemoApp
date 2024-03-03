@@ -79,4 +79,5 @@
     <string name="lajangRadioButton">Lajang</string>
     <string name="jandaRadioButton">Janda</string>
     <string name="dudaRadioButton">Duda</string>
+    <string name="formHeaderRekapitulasiData">Rekapitulasi Data</string>
 </resources>

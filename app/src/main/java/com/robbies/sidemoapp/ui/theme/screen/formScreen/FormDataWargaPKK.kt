@@ -74,7 +74,8 @@ fun FormDataWargaPKKScreen() {
                         start = 32.dp,
                         end = 32.dp
                     ),
-                scrollBehavior = scrollBehavior
+                scrollBehavior = scrollBehavior,
+                colors = TopAppBarDefaults.centerAlignedTopAppBarColors(Color.Transparent)
             )
         }
     ) {
@@ -468,8 +469,8 @@ fun FormDataWargaPKKScreen() {
 fun StringInputForm(labelValue: String, textValue: String) {
     Box(
         modifier = Modifier.padding(
-            start = 32.dp,
-            end = 32.dp
+            start = 16.dp,
+            end = 16.dp
         )
     ) {
         val state = remember { mutableStateOf("") }
@@ -504,8 +505,8 @@ fun StringInputForm(labelValue: String, textValue: String) {
 fun NumberInputForm(labelValue: String, textValue: String) {
     Box(
         modifier = Modifier.padding(
-            start = 32.dp,
-            end = 32.dp
+            start = 16.dp,
+            end = 16.dp
         )
     ) {
         val state = remember { mutableStateOf("") }
@@ -549,8 +550,8 @@ fun RadioButtonForm(textValue: String, toggleableInfoList: List<ToggleableInfo>)
 
     Box(
         modifier = Modifier.padding(
-            start = 32.dp,
-            end = 32.dp
+            start = 16.dp,
+            end = 16.dp
         )
     ) {
         Column {
